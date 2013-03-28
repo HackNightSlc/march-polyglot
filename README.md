@@ -9,9 +9,13 @@ The shared repository for the March 28 Polyglot Code-off. To get started:
 
 *Note:* If you don't see your username as a branch, submit an issue asking for one to be created. We'll try to stay on top of this, but might fall behind if we get lots of participants. 
 
+Goal
+------
+
 This isn't a "my tools are better than yours" competition. It's more of a "this is how we do X on my side of the fence" experiment.
 
-Some things to keep in mind:
+Things to keep in mind
+-----------
 
 1. Any and all walks of life are welcome; there is no minimum skill level required. Don't be shy or scared to share your work
 2. We really want to inspire the collaborative nature of this event, so please provide a README with setup instructions to help users get started with your code. 
